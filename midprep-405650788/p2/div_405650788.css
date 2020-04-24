@@ -2,3 +2,26 @@
   display: flex;
   justify-content: space-around;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#logo {
+  width: 90%;
+  border: 2px solid purple;
+  margin: 20px auto;
+}
+
+#aside {
+  width: 90%;
+  border: 2px solid purple;
+  margin: 20px auto;
+}
+
+#header {
+  width: 90%;
+  border: 2px solid purple;
+  margin: 20px auto;
+}
