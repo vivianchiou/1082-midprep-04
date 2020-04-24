@@ -1,0 +1,4 @@
+#picContainer {
+  display: flex;
+  justify-content: space-around;
+}
